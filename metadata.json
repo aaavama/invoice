@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Invoicing",
+  "description": "A modern, AI-powered SaaS invoicing platform. Features dashboard analytics, client management, and Gemini-assisted invoice generation.",
+  "requestFramePermissions": []
+}
